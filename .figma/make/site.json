@@ -1,0 +1,10 @@
+{
+  "description": "Provides a comprehensive project design and analysis tool that ensures precise adherence to requirements for students and professionals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
